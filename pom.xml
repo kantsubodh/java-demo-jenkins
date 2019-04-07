@@ -28,5 +28,7 @@
 	</dependencies>
 	<scm>
 		<url>https://github.com/kantsubodh/java-demo-jenkins.git</url>
+		<connection>git@github.com:kantsubodh/java-demo-jenkins.git</connection>
+		<developerConnection>git@github.com:kantsubodh/java-demo-jenkins.git</developerConnection>
 	</scm>
 </project>
